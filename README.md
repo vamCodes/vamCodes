@@ -9,27 +9,14 @@
 
 - 🔭 I’m currently working on **VamFit – A beginner-friendly fitness app**  
 - 🌱 I’m currently learning **Advanced Data Structures & Algorithms | System Design | AWS Microservices**  
-- 📝 I write about **Ethics of AI, Queer Tech, and lifting voices of marginalised communities through technology**  
+- 📝 I write about **Ethics of AI and lifting voices of marginalised communities through technology**  
 - 💬 Ask me about **React, React Native, Next.js, Node.js, Firebase**  
 - 📫 Reach me at **singh.shvam26@gmail.com**  
 - ⚡ Fun fact: **I build full-stack apps by day and read Bell Hooks by night.**
 
 ---
 
-### 🌐 Connect with me  
-<p align="left">
-  <a href="mailto:singh.shvam26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
 
----
 
 ### 🛠️ Languages & Tools  
 <p align="left">
